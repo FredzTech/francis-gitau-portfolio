@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/francis-gitau-portfolio/static/css/main.ee554743.css",
+    "main.js": "/francis-gitau-portfolio/static/js/main.47a3202d.js",
+    "static/media/about04.png": "/francis-gitau-portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/francis-gitau-portfolio/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/francis-gitau-portfolio/static/media/about01.080509de05322b7aafda.png",
+    "static/media/profile2.png": "/francis-gitau-portfolio/static/media/profile2.c53ce328f5a54a759763.png",
+    "static/media/about03.png": "/francis-gitau-portfolio/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/embedded-systems.jpg": "/francis-gitau-portfolio/static/media/embedded-systems.e8f0ea8b93371945b8a9.jpg",
+    "static/media/mainProfile.png": "/francis-gitau-portfolio/static/media/mainProfile.718d4493adb57b0ee98c.png",
+    "static/media/arduino-pir.jpg": "/francis-gitau-portfolio/static/media/arduino-pir.1ab2fa20c953b370135b.jpg",
+    "static/media/cloud-computing.png": "/francis-gitau-portfolio/static/media/cloud-computing.bff7b6583dafc88a646f.png",
+    "static/media/blink-led.jpeg": "/francis-gitau-portfolio/static/media/blink-led.8f4a5d2e5af818d7a198.jpeg",
+    "static/media/mobile.png": "/francis-gitau-portfolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/francis-gitau-portfolio/static/media/email.37b9e890eea501421fbf.png",
+    "index.html": "/francis-gitau-portfolio/index.html",
+    "main.ee554743.css.map": "/francis-gitau-portfolio/static/css/main.ee554743.css.map",
+    "main.47a3202d.js.map": "/francis-gitau-portfolio/static/js/main.47a3202d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee554743.css",
+    "static/js/main.47a3202d.js"
+  ]
+}
